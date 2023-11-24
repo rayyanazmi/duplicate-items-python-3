@@ -6,7 +6,7 @@ The Duplicate Item Detector is a Python 3 script designed to identify and report
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/duplicate-item-detector.git
+   git clone https://github.com/rayyanazmi/duplicate-item-detector.git
    ```
 
 2. **Navigate to the Project Directory:**
